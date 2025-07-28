@@ -1,6 +1,7 @@
-#/bin/bash
+#!/bin/bash
 
-# this line is command
+# This line is commented
 
-echo "hello-world!"
-echo "hi-world!"
+echo "Hello World!"
+echo "Hi, World!"
+echo "Hello"

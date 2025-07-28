@@ -1,5 +1,6 @@
-#/bin/bash
-# i was written some conversation
+#!/bin/bash
 
-echo "rahim"=hello "rahman!"
-echo "rahman"=hello "rahim!"
+echo "Rahim:: Hi Robert"
+echo "Robert:: Hello Rahim"
+echo "Rahim:: How are you doing?"
+echo "Robert:: I am good. How are you?"
